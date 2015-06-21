@@ -10,4 +10,5 @@ I'm also not including websites that have advertising, or any real ulterior moti
 
 ### License
 The Useless Web is covered by the MIT License.
+
 Copyright (C) 2015 ~ [Tim Holman](http://tholman.com) ~ timothy.w.holman@gmail.com
