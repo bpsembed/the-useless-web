@@ -33,7 +33,6 @@ function uselessWebButton( button, popup ) {
 		['http://r33b.net/',                                          true,  6],
 		['http://randomcolour.com/',                                  false, 6],
 		['http://cat-bounce.com/',                                    true,  6],
-		['http://cachemonet.com/',                                    true,  6],
 		['http://www.sadforjapan.com/',                               true,  5],
 		['http://www.taghua.com/',                                    true,  5],
 		['http://chrismckenzie.com/',                                  true, 6],
